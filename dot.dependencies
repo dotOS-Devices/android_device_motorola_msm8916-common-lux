@@ -1,0 +1,7 @@
+[
+  {
+    "repository":  "android_kernel_motorola_lux",
+    "target_path": "kernel/motorola/msm8916"
+  }
+]
+
